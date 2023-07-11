@@ -1,16 +1,14 @@
-### Hi there 👋
+![Web Developer](https://ibb.co/JxqYZgC)
+### Hi there 👋, I'm Sabiha
+#### Web Developer
 
-<!--
-**Sabiha-Tabassum/Sabiha-Tabassum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a success-driven, determined web developer. I have experienced in using HTML, CSS, JavaScript, React to build accessible component-based web pages & systems. A passionate person willing to learn more technologies to become a better developer than I was yesterday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS/JS /REACTJS/NODEJS/EXPRESSJS/MONGODB 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

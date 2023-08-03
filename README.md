@@ -1,4 +1,4 @@
-![Web Developer](https://ibb.co/JxqYZgC)
+
 ### Hi there 👋, I'm Sabiha
 #### Web Developer
 
@@ -7,7 +7,7 @@ I'm a success-driven, determined web developer. I have experienced in using HTML
 
 Skills: HTML / CSS/JS /REACTJS/NODEJS/EXPRESSJS/MONGODB 
 
-- 🔭 I’m currently working on this page. 
+
 
 
 

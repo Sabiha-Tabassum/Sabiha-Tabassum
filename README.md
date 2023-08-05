@@ -3,9 +3,9 @@
 #### Web Developer
 
 
-I'm a success-driven, determined web developer. I have experienced in using HTML, CSS, JavaScript, React to build accessible component-based web pages & systems. A passionate person willing to learn more technologies to become a better developer than I was yesterday.
+I'm a success-driven, determined web developer. I have experienced in using HTML5, CSS3, JavaScript, ReactJS to build accessible component-based web pages & systems. A passionate person willing to learn more technologies to become a better developer than I was yesterday.
 
-Skills: HTML / CSS/JS /REACTJS/NODEJS/EXPRESSJS/MONGODB 
+Skills: HTML5 / CSS3/JS /REACTJS/NODEJS/EXPRESSJS/MONGODB/Rest API/JSON Web Token/Context API/Custom Hook 
 
 
 
